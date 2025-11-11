@@ -140,5 +140,5 @@ SPECTACULAR_SETTINGS = {
     "SERVE_INCLUDE_SCHEMA": False,
 }
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",
+    "https://menu-three-bice.vercel.app/",
 ]
