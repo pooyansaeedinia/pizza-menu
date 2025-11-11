@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+ey6=4b117&4r6860=)_s!7y=p7d)kareop&0k9vd5jjjihk9s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['pizza-menu-j1m2.onrender.com']
+ALLOWED_HOSTS = ['pizza-menu-q7xq.onrender.com']
 
 
 # Application definition
